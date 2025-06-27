@@ -1,0 +1,134 @@
+{
+  "21069020": { "type": "ad_valorem",     "rate_percent": 60.0 },
+  "22021010": { "type": "ad_valorem",     "rate_percent": 12.0 },
+  "22021020": { "type": "ad_valorem",     "rate_percent": 12.0 },
+  "22021090": { "type": "ad_valorem",     "rate_percent": 12.0 },
+  "24016500": { "type": "ad_valorem",     "rate_percent": 61.0 },
+  "24013000": { "type": "ad_valorem",     "rate_percent": 61.0 },
+  "24039910": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 160.0 },
+      { "type": "ad_valorem",     "rate_percent": 142.0 }
+    ]
+  },
+  "24039910_KHAINI": { "type": "ad_valorem",     "rate_percent": 160.0 },
+  "24039930":       { "type": "ad_valorem",     "rate_percent": 160.0 },
+  "24039990_GUTKHA":{ "type": "ad_valorem",     "rate_percent": 204.0 },
+  "24022010": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 1591.0,
+    "unit_count": 1000
+  },
+  "24022020": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 2876.0,
+    "unit_count": 1000
+  },
+  "24022030": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 1591.0,
+    "unit_count": 1000
+  },
+  "24022040": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 2126.0,
+    "unit_count": 1000
+  },
+  "24022050": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 2876.0,
+    "unit_count": 1000
+  },
+  "24022090": {
+    "type": "combined",
+    "rate_percent": 5.0,
+    "fixed_rate": 4170.0,
+    "unit_count": 1000
+  },
+  "24021010": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 21.0 },
+      { "type": "fixed_per_unit", "fixed_rate": 4170.0, "unit_count": 1000 }
+    ]
+  },
+  "24021020": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 21.0 },
+      { "type": "fixed_per_unit", "fixed_rate": 4170.0, "unit_count": 1000 }
+    ]
+  },
+  "24029010": { "type": "fixed_per_unit",  "fixed_rate": 4006.0, "unit_count": 1000 },
+  "24029020": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 12.5 },
+      { "type": "fixed_per_unit", "fixed_rate": 4006.0, "unit_count": 1000 }
+    ]
+  },
+  "24029090": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 12.5 },
+      { "type": "fixed_per_unit", "fixed_rate": 4006.0, "unit_count": 1000 }
+    ]
+  },
+  "24031100": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 72.0 },
+      { "type": "ad_valorem",     "rate_percent": 17.0 }
+    ]
+  },
+  "24031190": { "type": "ad_valorem",     "rate_percent": 11.0 },
+  "24031910": { "type": "ad_valorem",     "rate_percent": 290.0 },
+  "24031990": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 49.0 },
+      { "type": "ad_valorem",     "rate_percent": 57.0 }
+    ]
+  },
+  "24039100": { "type": "ad_valorem",     "rate_percent": 72.0 },
+  "24039920": { "type": "ad_valorem",     "rate_percent": 72.0 },
+  "24039940": { "type": "ad_valorem",     "rate_percent": 72.0 },
+  "24039950": { "type": "ad_valorem",     "rate_percent": 72.0 },
+  "24039960": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 72.0 },
+      { "type": "ad_valorem",     "rate_percent": 65.0 }
+    ]
+  },
+  "24039970": { "type": "ad_valorem",     "rate_percent": 20.0 },
+  "24039990": {
+    "type": "higher_of",
+    "options": [
+      { "type": "ad_valorem",     "rate_percent": 204.0 },
+      { "type": "ad_valorem",     "rate_percent": 96.0 },
+      { "type": "ad_valorem",     "rate_percent": 89.0 }
+    ]
+  },
+  "2701":      { "type": "per_weight",    "rate_per_tonne": 400.0 },
+  "2702":      { "type": "per_weight",    "rate_per_tonne": 400.0 },
+  "2703":      { "type": "per_weight",    "rate_per_tonne": 400.0 },
+  "8702":      { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_SMALL_PETROL":  { "type": "ad_valorem",     "rate_percent": 1.0 },
+  "8703_SMALL_DIESEL":  { "type": "ad_valorem",     "rate_percent": 3.0 },
+  "8703_MID":           { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_LARGE":         { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_SUV":           { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_MID_HYBRID":    { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_HYBRID_>1500":  { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8703_HYDROGEN":      { "type": "ad_valorem",     "rate_percent": 15.0 },
+  "8711":      { "type": "ad_valorem",     "rate_percent": 3.0 },
+  "8802":      { "type": "ad_valorem",     "rate_percent": 3.0 },
+  "8903":      { "type": "ad_valorem",     "rate_percent": 3.0 }
+}
