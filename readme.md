@@ -8,17 +8,18 @@ This module provides:
 
 ## 📁 Directory Structure
 
+```text
 your-wms-tax-module/
 ├── tax_engine.py
 ├── cess_rules.json
 ├── requirements.txt
 ├── README.md
 ├── tests/
-│ └── test_tax_engine.py
+│   └── test_tax_engine.py
 └── .github/
-└── workflows/
-└── ci.yml
-
+    └── workflows/
+        └── ci.yml
+```
 
 ## ⚙️ Installation
 
